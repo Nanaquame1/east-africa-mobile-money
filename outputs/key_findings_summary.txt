@@ -1,0 +1,34 @@
+
+EAST AFRICA MOBILE MONEY: KEY ANALYTICAL FINDINGS (2017-2024)
+Data: GSMA Mobile Money Metrics / World Bank Global Findex
+
+FINDING 1 - REGION DOUBLED IN 7 YEARS: 71.6M TO 162.9M ACCOUNTS
+  Total registered accounts grew 128% from 2017 to 2024.
+  Active account rate averages 57% across the region showing
+  strong engagement beyond mere registration.
+
+FINDING 2 - KENYA IS THE ANCHOR: M-PESA CONTRIBUTES 61% OF GDP
+  Kenya processes $70.1B in mobile money annually.
+  M-Pesa GDP contribution rose from 42% (2017) to 61% (2024).
+  This is the most integrated mobile money economy in the world.
+
+FINDING 3 - ETHIOPIA IS THE DISRUPTION STORY OF THE DECADE
+  Telebirr launched 2021: accounts grew from 3.2M to 45.8M in 3 years.
+  Ethiopia went from 2% to 15% mobile money GDP contribution.
+  With 120M+ population, Ethiopia is now the region's biggest growth market.
+
+FINDING 4 - MOBILE MONEY DIRECTLY REDUCED FINANCIAL EXCLUSION
+  Kenya unbanked: fell from 17% (2017) to 8% (2024)
+  Rwanda unbanked: fell from 58% to 34%
+  Uganda unbanked: fell from 63% to 45%
+  The correlation between agent network density and inclusion is clear.
+
+FINDING 5 - AGENT NETWORKS ARE THE CRITICAL INFRASTRUCTURE
+  Regional agents grew from 451K (2017) to 1,114K (2024) - up 147%.
+  Every 1% increase in agent density correlates with ~2pp drop in
+  unbanked population - rural last-mile access is the key driver.
+
+FINDING 6 - COVID-19 ACCELERATED ADOPTION, NOT REVERSED IT
+  All countries saw dip in 2020 transaction values.
+  But registered accounts continued growing throughout.
+  Post-COVID recovery was faster than pre-COVID trend.
