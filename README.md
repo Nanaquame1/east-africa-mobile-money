@@ -64,6 +64,14 @@ and Ethiopia — using GSMA and World Bank data.
 
 `Python` `pandas` `matplotlib` `seaborn` `Jupyter Notebook`
 
+## 📊 Interactive Dashboard
+
+**Tableau Public:** [East Africa Mobile Money Analysis](https://public.tableau.com/views/EastAfricaMobileMoneyAnalysis/M-PesaDeepDive?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+The dashboard contains 3 interactive pages:
+- **Market Overview** — Active accounts, transaction value, GDP %, and unbanked population by country
+- **Transaction & Growth Analysis** — Value trends, agent network growth, and registered vs active accounts
+- **M-Pesa Deep Dive** — Kenya-specific customer growth, transaction value, and GDP contribution (2017–2024)
 
 
 \## Author
